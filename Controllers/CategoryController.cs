@@ -48,7 +48,9 @@ namespace expense_tracker.Controllers
         // GET: Category/Create
         public IActionResult Create()
         {
-            return View();
+            Category newCategory = new Category();
+
+            return View(newCategory);
         }
 
         // POST: Category/Create
