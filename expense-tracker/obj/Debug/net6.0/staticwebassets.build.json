@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KEI+gaMMRTtX0oS84GdP+xKjTP/U/soYyAbURMnXRIA=",
+  "Hash": "UUDKSBRI9JVKiyp7rE0Odk7iKNQ3gWDfUAk/mM11AQE=",
   "Source": "expense-tracker",
   "BasePath": "_content/expense-tracker",
   "Mode": "Default",
@@ -1069,6 +1069,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/Users/chan/Desktop/Workspace/expense-tracker/expense-tracker/wwwroot/logo.png",
+      "SourceId": "expense-tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/chan/Desktop/Workspace/expense-tracker/expense-tracker/wwwroot/",
+      "BasePath": "_content/expense-tracker",
+      "RelativePath": "logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/logo.png"
+    },
+    {
+      "Identity": "/Users/chan/Desktop/Workspace/expense-tracker/expense-tracker/wwwroot/profile.jpg",
+      "SourceId": "expense-tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/chan/Desktop/Workspace/expense-tracker/expense-tracker/wwwroot/",
+      "BasePath": "_content/expense-tracker",
+      "RelativePath": "profile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/profile.jpg"
     }
   ]
 }
